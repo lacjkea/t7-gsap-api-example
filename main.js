@@ -21,7 +21,7 @@ function animateTheLivingHellOutOfIt() {
       x: () => Math.random() * 1000 - 500,
     });
 
-  tl.timeScale(2);
+  tl.timeScale(3);
   //tl.seek(20)
   tl.restart();
 }
